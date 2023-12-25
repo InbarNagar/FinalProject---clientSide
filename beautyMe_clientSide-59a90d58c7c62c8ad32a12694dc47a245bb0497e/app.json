@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "BeautyMe",
+    "slug": "Beauty-Me",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.anonymous.beautymee"
+    }
+  }
+}
